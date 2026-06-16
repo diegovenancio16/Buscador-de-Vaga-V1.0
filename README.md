@@ -1,21 +1,20 @@
 # Buscador-de-Vaga-V1.0
-# 💰 Controle de Gastos Pessoal
+# 🔍 Buscador de Vagas V1.0
 
-Aplicação desenvolvida em Python para controle e análise de gastos pessoais, com app Android integrado.
+Ferramenta automatizada em Python para busca de vagas de emprego, com possibilidade de candidatura automática.
 
 ## Funcionalidades
-- Registro e categorização de gastos
-- Análise de dados para facilitar declaração do Imposto de Renda
-- App Android para lançamento rápido pelo celular
+- Busca automática de vagas por palavra-chave
+- Filtragem por localidade e área
+- Base para implementação de candidatura automática
 
 ## Tecnologias utilizadas
 - Python
-- Pandas
-- App Android
+- Selenium
+- Requests / BeautifulSoup
 
 ## Como usar
-Clone o repositório e execute o arquivo principal:
 ```bash
-git clone https://github.com/diegovenancio16/Gastos
+git clone https://github.com/diegovenancio16/Buscador-de-Vaga-V1.0
 python main.py
 ```
